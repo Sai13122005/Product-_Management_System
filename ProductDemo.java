@@ -69,5 +69,6 @@ public class ProductDemo {
         System.out.println("Electronic Products: "+ proCat.size());
         System.out.println("Clothing Products: "+ proCat1.size());
         System.out.println("Grocery Products: "+ proCat2.size());
+        sc.close();
     }
 }
